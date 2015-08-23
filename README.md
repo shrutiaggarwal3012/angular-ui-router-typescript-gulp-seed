@@ -1,0 +1,1 @@
+This is the project that includes angular, typescript, gulp and ui-router.
